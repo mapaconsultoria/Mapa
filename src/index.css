@@ -1,0 +1,19 @@
+@media (max-width: 767px) {
+    .navbar-toggler {
+      margin-right: 0.5rem; /* Espacio entre el toggle button y las rutas */
+    }
+    
+    .mobile-nav {
+      display: flex;
+      flex-direction: column; /* Rutas en una columna */
+      margin-top: 1rem; /* Espacio superior entre el toggle button y las rutas */
+      align-items: flex-end; /* Alinear las rutas a la derecha */
+    }
+  
+    .mobile-nav .nav-link {
+      padding: 0.5rem 1rem; /* Espaciado interno de las rutas */
+      font-size: 1rem; /* Tamaño de fuente para las rutas */
+      text-align: right; /* Alinear el texto de las rutas a la derecha */
+    }
+  }
+  
