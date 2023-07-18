@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export const ItemsCard = ({ id,institucion,categoria,pais }) => {
 
-  const paisImageUrl = `/src/assets/paises/${pais}.jpg`;
+  const paisImageUrl = `/public/assets/paises/${pais}.jpg`;
   
   return (
     <div className="col-lg-4 col-md-6 col-sm-12 col animate__animated animate__fadeIn mb-3">
