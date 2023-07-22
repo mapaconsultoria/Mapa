@@ -1,9 +1,11 @@
 
 
 import { useEffect, useState } from "react";
+import GoogleMapsContext from "../context/GoogleMapsContext";
 
 export const GoogleMap = ({ longitude, latitude }) => {
-  const [isGoogleMapsLoaded, setIsGoogleMapsLoaded] = useState(false);
+  const [isGoogleMapsLoaded, setIsGoogleMapsLoaded] = useState(GoogleMapsContext);
+
 
   useEffect(() => {
     if (!isGoogleMapsLoaded && typeof longitude === "number" && typeof latitude === "number") {

@@ -5,7 +5,7 @@ import { getFilterData } from "../helpers/getFilterData";
 
 export const SelectoresMap = () => {
   const [selectedCountry, setSelectedCountry] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("Todos");
  
   const  data  = getCategories(selectedCountry);
   const  data2  = getFilterData(selectedCountry,selectedCategory);
@@ -35,6 +35,7 @@ export const SelectoresMap = () => {
       </select>
 
       <select className="form-select" value={selectedCategory} onChange={handleCategoryChange} disabled={!selectedCountry} style={{backgroundColor:'#eeeee4'}}>
+        <option value="" disabled hidden>Selecciona una opción...</option>
         <option value="Todos">Todas las categorías</option>
         {
             uniqueCategories.map((categoria,index)=>(

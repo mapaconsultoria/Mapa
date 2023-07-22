@@ -9,9 +9,12 @@ export const DescriptionPlace = () => {
 
   const navigate = useNavigate();
 
+
   const redirectToEmail = (email) => {
     window.location.href = `mailto:${email}`;
   };
+
+
 
   const redirectToURL = (url) => {
     window.open(url, "_blank");
@@ -24,17 +27,19 @@ export const DescriptionPlace = () => {
   if (!item) {
     return <Navigate to="/" />;
   }
+
+
   return (
     <div className="row mt-5 mb-5" style={{ backgroundColor: "#eeeee4" }}>
-      <div className=" col-lg-4 col-sm-12 mt-2 mb-2  animate__animated animate__fadeInLeft">
+      <div className=" col-lg-4 col-md-6 col-sm-12 mt-2 mb-2  animate__animated animate__fadeInLeft">
         {/* <img
           src={`/assets/heroes/${id}.jpg`}
           alt={item.institucion}
           className="img-thumbnail animate__animated animate__fadeInLeft"
         /> */}
-      <GoogleMap longitude={item.longitud} latitude={item.latitud} />
+      <GoogleMap  longitude={item.longitud} latitude={item.latitud} />
       </div>
-      <div className="col-8 mt-3">
+      <div className="col-lg-8 col-md-6 col-sm-12 mt-3">
         <h3>{item.institucion}</h3>
         <ul className="list-group list-group-flush">
           <li className="list-group-item">

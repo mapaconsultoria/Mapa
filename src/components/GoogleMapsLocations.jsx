@@ -1,19 +1,22 @@
 
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { InfoWindow } from "google-maps-react";
 import { useNavigate } from "react-router-dom";
+import GoogleMapsContext from "../context/GoogleMapsContext";
 
 export const GoogleMapsLocations = ({ locations }) => {
   const [map, setMap] = useState(null);
   const [markers, setMarkers] = useState([]);
   const [infoWindow, setInfoWindow] = useState(null);
   const navigate = useNavigate();
+  const { isGoogleMapsLoaded } = useContext(GoogleMapsContext);
 
   useEffect(() => {
     // Cargar la API de Google Maps
     const loadGoogleMapsAPI = async () => {
       try {
         await new Promise((resolve, reject) => {
+         
           const script = document.createElement("script");
           script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyD54E-tfB3c5lqTwaS8siAi7i1-_qZ2qx0&callback=initMap`;
           script.defer = true;
@@ -21,6 +24,7 @@ export const GoogleMapsLocations = ({ locations }) => {
           script.onload = resolve;
           script.onerror = reject;
           document.head.appendChild(script);
+          
         });
       } catch (error) {
         console.error("Error al cargar la API de Google Maps:", error);
@@ -248,18 +252,39 @@ export const GoogleMapsLocations = ({ locations }) => {
   }, []);
 
   useEffect(() => {
+
     if (map) {
       // Limpiar los marcadores existentes
       markers.forEach((marker) => {
         marker.setMap(null);
       });
 
+ 
+      const categoryColors = {
+        "Entrenamiento Tecnico (Habilidades Laborales)": "green", // Cambia "blue" al color deseado
+        "Orientacion y Servicios Legales": "red", // Cambia "red" al color deseado
+        // Añade más categorías y sus colores correspondientes aquí
+      }
+  
+      // Crea íconos personalizados para cada categoría
+      const createCustomIcon = (color) =>
+        `https://maps.google.com/mapfiles/ms/icons/${color}-dot.png`;
+
       // Agregar nuevos marcadores al mapa y mover el mapa al primer marcador
       if (locations.length > 0) {
         const newMarkers = locations.map((location) => {
+          const markerColor = categoryColors[location.category] || "red"; 
+
+          // Crea el ícono personalizado para el marcador
+          const markerIcon = {
+            url: createCustomIcon(markerColor),
+            scaledSize: new window.google.maps.Size(30, 30),
+            // Ajusta el tamaño del icono personalizado según tus necesidades
+          }
           const marker = new window.google.maps.Marker({
             position: { lat: location.latitud, lng: location.longitud },
             map: map,
+            icon: markerIcon,
           });
 
           const infoWindowContent = `<div style="background-color: white; padding: 10px;"><strong>${location.institucion}</strong></div>`;
@@ -295,6 +320,7 @@ export const GoogleMapsLocations = ({ locations }) => {
         setMarkers(newMarkers);
       }
     }
+
   }, [map, locations]);
 
   useEffect(() => {
