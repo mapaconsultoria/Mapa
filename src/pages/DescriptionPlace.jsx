@@ -31,7 +31,7 @@ export const DescriptionPlace = () => {
 
   return (
     <div className="row mt-5 mb-5" style={{ backgroundColor: "#eeeee4" }}>
-      <div className=" col-lg-4 col-md-6 col-sm-12 mt-2 mb-2  animate__animated animate__fadeInLeft">
+      <div className=" col-lg-4 col-md-6 col-12 mt-2 mb-2  animate__animated animate__fadeInLeft">
         {/* <img
           src={`/assets/heroes/${id}.jpg`}
           alt={item.institucion}
@@ -39,7 +39,7 @@ export const DescriptionPlace = () => {
         /> */}
       <GoogleMap  longitude={item.longitud} latitude={item.latitud} />
       </div>
-      <div className="col-lg-8 col-md-6 col-sm-12 mt-3">
+      <div className="col-lg-8 col-md-6 col-12 mt-3">
         <h3>{item.institucion}</h3>
         <ul className="list-group list-group-flush">
           <li className="list-group-item">
