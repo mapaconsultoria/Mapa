@@ -1,4 +1,3 @@
-
 import { useContext, useEffect, useState } from "react";
 import { InfoWindow } from "google-maps-react";
 import { useNavigate } from "react-router-dom";
@@ -16,7 +15,6 @@ export const GoogleMapsLocations = ({ locations }) => {
     const loadGoogleMapsAPI = async () => {
       try {
         await new Promise((resolve, reject) => {
-         
           const script = document.createElement("script");
           script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyD54E-tfB3c5lqTwaS8siAi7i1-_qZ2qx0&callback=initMap`;
           script.defer = true;
@@ -24,7 +22,6 @@ export const GoogleMapsLocations = ({ locations }) => {
           script.onload = resolve;
           script.onerror = reject;
           document.head.appendChild(script);
-          
         });
       } catch (error) {
         console.error("Error al cargar la API de Google Maps:", error);
@@ -40,7 +37,7 @@ export const GoogleMapsLocations = ({ locations }) => {
 
           const mapOptions = {
             center: { lat: latitude, lng: longitude },
-            zoom: 9,
+            zoom: 7,
             styles: [
               {
                 featureType: "poi",
@@ -252,35 +249,33 @@ export const GoogleMapsLocations = ({ locations }) => {
   }, []);
 
   useEffect(() => {
-
     if (map) {
       // Limpiar los marcadores existentes
       markers.forEach((marker) => {
         marker.setMap(null);
       });
 
- 
       const categoryColors = {
-        "Entrenamiento Tecnico (Habilidades Laborales)": "green", // Cambia "blue" al color deseado
-        "Orientacion y Servicios Legales": "red", // Cambia "red" al color deseado
-        // Añade más categorías y sus colores correspondientes aquí
-      }
-  
+        "Entrenamiento Tecnico (Habilidades Laborales)": "green",
+        "Orientacion y Servicios Legales": "yellow",
+        "Asistencia Psico-social": "blue",
+        "Emprendimiento Empresarial (Formalizacion legal y marketing)": "pink",
+        "Financiamiento (Creditos)": "purple",
+      };
+
       // Crea íconos personalizados para cada categoría
       const createCustomIcon = (color) =>
         `https://maps.google.com/mapfiles/ms/icons/${color}-dot.png`;
 
-      // Agregar nuevos marcadores al mapa y mover el mapa al primer marcador
       if (locations.length > 0) {
         const newMarkers = locations.map((location) => {
-          const markerColor = categoryColors[location.category] || "red"; 
-
+          const markerColor = categoryColors[location.categoria] || "red";
           // Crea el ícono personalizado para el marcador
           const markerIcon = {
             url: createCustomIcon(markerColor),
-            scaledSize: new window.google.maps.Size(30, 30),
+            scaledSize: new window.google.maps.Size(20, 20),
             // Ajusta el tamaño del icono personalizado según tus necesidades
-          }
+          };
           const marker = new window.google.maps.Marker({
             position: { lat: location.latitud, lng: location.longitud },
             map: map,
@@ -292,26 +287,24 @@ export const GoogleMapsLocations = ({ locations }) => {
             content: infoWindowContent,
           });
 
-          
           marker.addListener("click", () => {
-          navigate(`/descripcion/${location.id}`);
-         });
-      
+            navigate(`/descripcion/${location.id}`);
+          });
+
           marker.addListener("mouseover", () => {
             infoWindow.open(map, marker);
           });
-      
+
           marker.addListener("mouseout", () => {
             infoWindow.close();
           });
-      
+
           // Cerrar el InfoWindow al hacer clic en el mapa
           map.addListener("click", () => {
             infoWindow.close();
           });
-      
+
           return marker;
-      
         });
 
         const firstMarker = newMarkers[0];
@@ -320,7 +313,6 @@ export const GoogleMapsLocations = ({ locations }) => {
         setMarkers(newMarkers);
       }
     }
-
   }, [map, locations]);
 
   useEffect(() => {
@@ -342,7 +334,4 @@ export const GoogleMapsLocations = ({ locations }) => {
   }, [map]);
 
   return <div id="map" style={{ height: "100vh" }}></div>;
-
 };
-
-
