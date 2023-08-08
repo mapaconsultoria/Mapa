@@ -9,7 +9,7 @@ export const Navbar = () => {
               className="navbar-brand" 
               to="/">
               <div className="d-flex align-items-center">
-               <img src="../../assets/paises/fas.png" alt="FAS" width="80" height="40" className="d-inline-block align-text-top"></img>
+               <img src="/assets/paises/fas.png" alt="FAS" width="80" height="40" className="d-inline-block align-text-top"></img>
                 <span className="ms-2">Inicio</span>
               </div>
           </Link>
