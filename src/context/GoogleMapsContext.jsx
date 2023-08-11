@@ -5,9 +5,11 @@ const GoogleMapsContext = createContext();
 
 export const GoogleMapsProvider = ({ children }) => {
   const [isGoogleMapsLoaded, setIsGoogleMapsLoaded] = useState(false);
+  const [markers, setMarkers] = useState([]);
+  const [mapPosition, setMapPosition] = useState(null);
    
   return (
-    <GoogleMapsContext.Provider value={{ isGoogleMapsLoaded, setIsGoogleMapsLoaded }}>
+    <GoogleMapsContext.Provider value={{  markers, setMarkers, mapPosition, setMapPosition, isGoogleMapsLoaded, setIsGoogleMapsLoaded }}>
       {children}
     </GoogleMapsContext.Provider>
   );

@@ -5,10 +5,12 @@ import GoogleMapsContext from "../context/GoogleMapsContext";
 
 export const GoogleMapsLocations = ({ locations }) => {
   const [map, setMap] = useState(null);
-  const [markers, setMarkers] = useState([]);
+  // const [markers, setMarkers] = useState([]);
   const [infoWindow, setInfoWindow] = useState(null);
   const navigate = useNavigate();
   const { isGoogleMapsLoaded } = useContext(GoogleMapsContext);
+  const { markers, setMarkers, setMapPosition } = useContext(GoogleMapsContext);
+  
 
   useEffect(() => {
     // Cargar la API de Google Maps
@@ -255,6 +257,7 @@ export const GoogleMapsLocations = ({ locations }) => {
         marker.setMap(null);
       });
 
+
       const categoryColors = {
         "Entrenamiento Tecnico (Habilidades Laborales)": "green",
         "Orientacion y Servicios Legales": "yellow",
@@ -311,6 +314,7 @@ export const GoogleMapsLocations = ({ locations }) => {
         map.panTo(firstMarker.getPosition());
 
         setMarkers(newMarkers);
+        setMapPosition(firstMarker.getPosition());
       }
     }
   }, [map, locations]);

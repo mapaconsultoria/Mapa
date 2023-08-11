@@ -1,4 +1,4 @@
-import {  useState } from "react";
+import {  useEffect, useState } from "react";
 import { getCategories } from "../helpers/getCategories";
 import { GoogleMapsLocations } from "./GoogleMapsLocations";
 import { getFilterData } from "../helpers/getFilterData";
@@ -23,6 +23,41 @@ export const SelectoresMap = () => {
   const handleCategoryChange = (e) => {
     setSelectedCategory(e.target.value);
   };
+
+    // Guardar los valores seleccionados en el localStorage al cambiar
+    useEffect(() => {
+      localStorage.setItem("selectedCountry", selectedCountry);
+      localStorage.setItem("selectedCategory", selectedCategory);
+    }, [selectedCountry, selectedCategory]);
+  
+    // // Recuperar los valores del localStorage al cargar la página
+    // useEffect(() => {
+    //   const storedCountry = localStorage.getItem("selectedCountry");
+    //   const storedCategory = localStorage.getItem("selectedCategory");
+  
+    //   if (storedCountry) {
+    //     setSelectedCountry(storedCountry);
+    //   }
+  
+    //   if (storedCategory) {
+    //     setSelectedCategory(storedCategory);
+    //   }
+    // }, []);
+
+      // Restablecer valores al cargar la página principal
+  useEffect(() => {
+    // Recuperar los valores guardados en el localStorage y restablecer los selectores
+    const storedCountry = localStorage.getItem("selectedCountry");
+    const storedCategory = localStorage.getItem("selectedCategory");
+
+    if (storedCountry) {
+      setSelectedCountry(storedCountry);
+    }
+
+    if (storedCategory) {
+      setSelectedCategory(storedCategory);
+    }
+  }, []);
 
   return (
     <div>
