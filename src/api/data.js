@@ -2,7 +2,7 @@ export const data = [
     {
         'id': '1',
         'institucion':'Instituto Salvadoreño de Formación Profesional (INSAFORP)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.674215406227404, 
         'longitud':-89.25595526395726,
         'direccion':'Parque Industrial Santa Elena, Final Calle Siemens, Edificio INSAFORP, Antiguo Cuscatlán, La Libertad, El Salvador, C.A. PBX: (503) 2522 - 7300 ',
@@ -16,7 +16,7 @@ export const data = [
     {
         'id': '2',
         'institucion':'Centro de Entrenamiento y Desarrollo Empresarial (CEDE)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.702535956360478, 
         'longitud':-89.23664593327123,
         'direccion':'Av. Franklin Delano Roosevelt #51 Av. Sur, Edif. 2707 San Salvador, El Salvador C.A',
@@ -30,7 +30,7 @@ export const data = [
     {
         'id': '3',
         'institucion':'Fundación Empresarial para el Desarrollo Educativo (FEPADE)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.679431923535098,   
         'longitud':-89.25371554432701,
         'direccion':'Calle El Pedregal y calle de acceso a Escuela Militar, Antiguo Cuscatlán, La Libertad, El Salvador, Centroamérica',
@@ -44,7 +44,7 @@ export const data = [
     {
         'id': '4',
         'institucion':'Instituto Salvadoreño del Migrante', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.701791975891892, 
         'longitud':-89.21241270889003,
         'direccion':'41 Av Norte Nº 221 Col. Flor Blanca San Salvador, El Salvador, Centro América. ',
@@ -58,7 +58,7 @@ export const data = [
     {
         'id': '5',
         'institucion':'Comité Internacional de Rescate (IRC)', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.687215782768533,
         'longitud':-89.24169125724124,
         'direccion':'Av. La Capilla #411, San Salvador, El Salvador',
@@ -71,8 +71,8 @@ export const data = [
     },
     {
         'id': '6',
-        'institucion':'World Vision El Salvador', 
-        'categoria':'Atencion Psico-social', 
+        'institucion':'World Visión El Salvador', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.60377866921786,
         'longitud':-89.2924281471226,
         'direccion':'Km. 16, Carretera a La Libertad, Complejo Corporativo Vía del Corso Tuscania, Zaragoza Zaragoza La Libertad CP, El Salvador',
@@ -86,7 +86,7 @@ export const data = [
     {
         'id': '7',
         'institucion':'Ciudad Mujer Morazán', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.599195326341707, 
         'longitud':-88.0776781664746,
         'direccion':'RN 18E, El Rosario, SV El Salvador',
@@ -100,7 +100,7 @@ export const data = [
     {
         'id': '8',
         'institucion':'Ministerio del Trabajo y Prevision (MINTRAB)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.734549300600388, 
         'longitud':-89.31129458015006, 
         'direccion':'Alameda Juan Pablo II y 17 Ave. Nte. Edificios 2 y 3, Centro de Gobierno, San Salvador, El Salvador',
@@ -113,8 +113,8 @@ export const data = [
     },
     {
         'id': '9',
-        'institucion':'Comision Nacional de la Micro y Pequeña Empresa (CONAMYPE)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Comisión Nacional de la Micro y Pequeña Empresa (CONAMYPE)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud': 13.694844216030456,
         'longitud':-89.230160169629,
         'direccion':'Alameda Manuel Enrique Araujo, Edificio CONAMYPE, Centro Comercial Plaza Suiza. ',
@@ -127,8 +127,8 @@ export const data = [
     },
     {
         'id': '10',
-        'institucion':'Ministerio de Economia', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Ministerio de Economía', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.704479566058279, 
         'longitud':-89.20095528695757,
         'direccion':'Alameda Juan Pablo II y Calle Guadalupe, Centro de Gobierno, Complejo Plan Maestro Edificio C-1 y C-2. San Salvador, El Salvador C.A.',
@@ -143,7 +143,7 @@ export const data = [
     {
         'id': '11',
         'institucion':'Banco de Fomento Agropecuario', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.665396351255525,
         'longitud':-89.2748720768218,
         'direccion':'Kilómetro 10 ½ Carretera al Puerto de La Libertad, Santa Tecla, La Libertad, El Salvador',
@@ -156,8 +156,8 @@ export const data = [
     },
     {
         'id': '12',
-        'institucion':'Banco de Desarrollo de la Republica de El Salvador (BANDESAL)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Banco de Desarrollo de la República de El Salvador (BANDESAL)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.700273881940879,
         'longitud':-89.21717964014921,
         'direccion':'Av. Franklin Delano Roosevelt #51 Av. Sur, Edif. 2707 San Salvador, El Salvador C.A.',
@@ -171,7 +171,7 @@ export const data = [
     {
         'id': '13',
         'institucion':'Fondo Solidario para la Familia Microempresaria', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.701060255477069, 
         'longitud':-89.21198635788508,
         'direccion':'Prolongación Calle Arce, entre 39 y 41 Avenida Norte No. 2119, San Salvador, El Salvador',
@@ -185,7 +185,7 @@ export const data = [
     {
         'id': '14',
         'institucion':'SAC Integral', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.70032739616336, 
         'longitud':-89.21548452092104, 
         'direccion':'Alameda Roosevelt y 47 Avenida Sur,Colonia Flor Blanca,San Salvador, El Salvador.',
@@ -199,7 +199,7 @@ export const data = [
     {
         'id': '15',
         'institucion':'Instituto Nacional de la Juventud', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.7043998170638, 
         'longitud':-89.19988047842222,
         'direccion':'Alameda Juan Pablo II y 17 Avenida Norte, Centro de Gobierno, Complejo Plan Maestro Edificio B-1 Segundo Nivel. San Salvador, El Salvador C.A ',
@@ -212,8 +212,8 @@ export const data = [
     },
     {
         'id': '16',
-        'institucion':'Ministerio de Agricultura y Ganaderia', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Ministerio de Agricultura y Ganadería', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.683925689213769, 
         'longitud':-89.28665300516904,
         'direccion':'Final 1a. Avenida Norte, 13 Calle Oriente y Av. Manuel Gallardo. Santa Tecla, La Libertad. República de El Salvador, C. A. ',
@@ -226,8 +226,8 @@ export const data = [
     },
     {
         'id': '17',
-        'institucion':'Ministerio de Educacion', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Ministerio de Educación', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.704679278795314, 
         'longitud':-89.20086684125974,
         'direccion':'Alameda Juan Pablo II y calle Guadalupe , edificios A, San Salvador, El Salvador, Centro América',
@@ -241,7 +241,7 @@ export const data = [
     {
         'id': '18',
         'institucion':'Procuraduria General de la Republica', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.704473384770939, 
         'longitud':-89.19739561925935,
         'direccion':'Oficinas Centrales Novena Calle Poniente y Trece Avenida Norte, Torre PGR Centro de Gobierno, San Salvador ',
@@ -254,8 +254,8 @@ export const data = [
     },
     {
         'id': '19',
-        'institucion':'Direccion General de Migracion y Extranjeria', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Direccion General de Migración y Extranjeria', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.704697425683975, 
         'longitud':-89.19796865015905,
         'direccion':'9ª Calle Poniente y 15 Avenida Norte, Centro de Gobierno, San Salvador, El Salvador, Centroamérica ',
@@ -269,7 +269,7 @@ export const data = [
     {
         'id': '20',
         'institucion':'Ministerio de Desarrollo Local', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.68385374324312,
         'longitud': -89.19148246346656,
         'direccion':'10°Ave. Sur y Calle México, frente a ex casa presidencial, Barrio San Jacinto, San Salvador',
@@ -283,7 +283,7 @@ export const data = [
     {
         'id': '21',
         'institucion':'Fundación Guillermo Manuel Ungo (FundaUngo)', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.706750663109174, 
         'longitud':-89.23687608383457,
         'direccion':'81 Avenida Norte y 7a. Calle Poniente, Casa No. 509. Colonia Escalón, San Salvador,El Salvador, C.A.',
@@ -297,7 +297,7 @@ export const data = [
     {
         'id': '22',
         'institucion':'Registro Nacional de Personas Naturales(RNPN)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.69710950015943,
         'longitud':-89.22671733733169,
         'direccion':'Alameda Manuel Enrique Araujo, kilometro 4 y 1/2 carretera a Santa Tecla, colonia Roma, pasaje Carbonell, San Salvador, El Salvador',
@@ -311,7 +311,7 @@ export const data = [
     {
         'id': '23',
         'institucion':'Instituto Técnico de Capacitación y Productividad (INTECAP)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.317930962860268,  
         'longitud':-89.97355359284195,
         'direccion':'Km 110.4 Ruta Interamericana CA-01 Oriente, Aldea Amayito, Jutiapa.',
@@ -324,8 +324,8 @@ export const data = [
     },
     {
         'id': '24',
-        'institucion':'Fundacion para el Desarrollo Empresarial y Agricola (FUNDEA)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'institucion':'Fundación para el Desarrollo Empresarial y Agrícola (FUNDEA)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.59428550850677, 
         'longitud':-90.52010297858993,
         'direccion':'15 avenida 2-09 zona 13, Guatemala City, Guatemala',
@@ -338,8 +338,8 @@ export const data = [
     },
     {
         'id': '25',
-        'institucion':'Instituto Guatemalteco de Migracion ', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Instituto Guatemalteco de Migración ', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.597713470933774, 
         'longitud':-90.52050176324653,
         'direccion':'6av. 3-11 zona 4 Ciudad de Guatemala',
@@ -352,7 +352,7 @@ export const data = [
     },
     {
         'id': '26',
-        'institucion':'Fundacion Fe y Alegria', 
+        'institucion':'Fundación Fe y Alegria', 
         'categoria':'Asistencia Psico-social', 
         'latitud':14.646109333097229, 
         'longitud':-90.50629999208137,
@@ -366,8 +366,8 @@ export const data = [
     },
     {
         'id': '27',
-        'institucion':'Camara de Comercio Guatemalteca- Americana (AMCHAM Guatemala)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'institucion':'Cámara de Comercio Guatemalteca- Americana (AMCHAM Guatemala)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.58771817317047,
         'longitud':-90.51390043996327,
         'direccion':' Europlaza Business Center 5ta. Avenida 5-55 Torre 1, Nivel 5 Oficina 502, Guatemala 01014 ',
@@ -380,7 +380,7 @@ export const data = [
     },
     {
         'id': '28',
-        'institucion':'Asociacion Guatemalteca de Profesionales de Gestion Humana (AGH)', 
+        'institucion':'Asociación Guatemalteca de Profesionales de Gestión Humana (AGH)', 
         'categoria':'Asistencia Psico-social', 
         'latitud':14.65958575904457,  
         'longitud':-90.51560610742439,
@@ -394,7 +394,7 @@ export const data = [
     },
     {
         'id': '29',
-        'institucion':'Fundacion Habitat para la Humanidad', 
+        'institucion':'Fundación Hábitat para la Humanidad', 
         'categoria':'Asistencia Psico-social', 
         'latitud':14.85292373351294,  
         'longitud':-91.53648400556955,
@@ -422,7 +422,7 @@ export const data = [
     },
     {
         'id': '31',
-        'institucion':'Asociacion de Retornados Guatemaltecos', 
+        'institucion':'Asociación de Retornados Guatemaltecos', 
         'categoria':'Asistencia Psico-social', 
         'latitud':14.584641831425404,
         'longitud':-90.53286237673936, 
@@ -451,7 +451,7 @@ export const data = [
     {
         'id': '33',
         'institucion':'CentraRSE', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':15.729090211462438,  
         'longitud':-90.35750504637485,
         'direccion':'-------no disponible -------',
@@ -465,7 +465,7 @@ export const data = [
     {
         'id': '34',
         'institucion':'COSEPSA RH', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.61061246856556, 
         'longitud':-90.51626240742542,
         'direccion':'4a. calle 7-53 zona 9, Edificio Torre Azul Oficina 708, Guatemala City, Guatemala',
@@ -479,7 +479,7 @@ export const data = [
     {
         'id': '35',
         'institucion':'Te Conecta', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.610536850509927,  
         'longitud':-90.50046211906715,
         'direccion':'JF6X+5R6, 10A Avenida A, Cdad. de Guatemala, Guatemala',
@@ -493,7 +493,7 @@ export const data = [
     {
         'id': '36',
         'institucion':'Asegua', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.580108219319758,
         'longitud':-90.52426132091855,
         'direccion':'HFHG+W8F, 18 Calle, Cdad. de Guatemala, Guatemala',
@@ -507,7 +507,7 @@ export const data = [
     {
         'id': '37',
         'institucion':'Ministerio de Relaciones Exteriores', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.60966833298693,
         'longitud':-90.5137305613955,
         'direccion':'4-17, 2A Avenida 10, Cdad. de Guatemala, Guatemala',
@@ -520,8 +520,8 @@ export const data = [
     },
     {
         'id': '38',
-        'institucion':'Ministerio de Trabajo y Prevision Social', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.730625028956739, 
         'longitud':-90.5908120632207,
         'direccion':'7 avenida 3-33 Zona 9 - Edificio Torre Empresarial',
@@ -535,8 +535,8 @@ export const data = [
 
     {
         'id': '39',
-        'institucion':'Ministerio de Economia', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Economía', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.638838565224631,
         'longitud':-90.51172209226448, 
         'direccion':'8a. Avenida 10-43 Zona 1 Ciudad de Guatemala Guatemala, CA',
@@ -550,8 +550,8 @@ export const data = [
   
     {
         'id': '40',
-        'institucion':'Ministerio de Educacion', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Educación', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.608592705726993,
         'longitud':-90.51376756139551,
         'direccion':'6a. Calle 1-87 Zona 10, 01010, Guatemala, C.A',
@@ -564,8 +564,8 @@ export const data = [
     },
      {
         'id': '41',
-        'institucion':'Ministerio de Gobernacion', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Gobernación', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.635392461772996,
         'longitud':-90.51456141906662,
         'direccion':'6a. Avenida 13-71, Zona 1, Guatemala City, Guatemala',
@@ -578,8 +578,8 @@ export const data = [
     },
      {
         'id': '42',
-        'institucion':'Ministerio de Migracion', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Migración', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.621261655642536, 
         'longitud':-90.51659241366855,
         'direccion':'6av. 3-11 zona 4, Ciudad de Guatemala',
@@ -594,7 +594,7 @@ export const data = [
      {
         'id': '43',
         'institucion':'Municipalidad de Villanueva', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.973601,
         'longitud':-89.534897,
         'direccion':'5a. Avenida 4-55, Villa Nueva, Guatemala',
@@ -608,7 +608,7 @@ export const data = [
      {
         'id': '44',
         'institucion':'Municipalidad de San Miguel Petapa', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.52586176010338, 
         'longitud':-90.58877447674054,
         'direccion':'1a. calle 1-56 zona 1, San Miguel Petapa, Guatemala',
@@ -622,7 +622,7 @@ export const data = [
      {
         'id': '45',
         'institucion':'Municipalidad de Mixco', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.63139923042114, 
         'longitud':-90.60568555769348,
         'direccion':'4 Calle 4-98 Zona 1, Mixco, Guatemala',
@@ -636,7 +636,7 @@ export const data = [
     {
         'id': '46',
         'institucion':'Municipalidad de San Marcos', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.969417793468825,  
         'longitud':-91.79005969153958,
         'direccion':'7ma Avenida «A» 8-45 zona 1, San Marcos Guatemala, C.A.',
@@ -650,7 +650,7 @@ export const data = [
     {
         'id': '47',
         'institucion':'Gobierno de la Republica de Guatemala', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.643977585283935, 
         'longitud':-90.51285155248807,
         'direccion':'A, 6A Avenida 4-18, Cdad. de Guatemala, Guatemala',
@@ -664,7 +664,7 @@ export const data = [
     {
         'id': '48',
         'institucion':'Fundacion Avina', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.930566, 
         'longitud':-90.816674,
         'direccion':'',
@@ -678,7 +678,7 @@ export const data = [
     {
         'id': '49',
         'institucion':'IOM-OIM', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.60878921308125, 
         'longitud':-90.51537336765608,
         'direccion':'Edificio Reforma 10, en la Avenida Reforma 09-55, zona 10. Ciudad de Guatemala, Guatemala',
@@ -691,8 +691,8 @@ export const data = [
     },
     {
         'id': '50',
-        'institucion':'Camara Guatemalteca de la Construccion', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Camara Guatemalteca de la Construcción', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.565830502101658,
         'longitud':-90.48139532091885,
         'direccion':'Km. 8 Carretera a Muxbal, Santa Catarina Pinula.',
@@ -706,7 +706,7 @@ export const data = [
     {
         'id': '51',
         'institucion':'Municipalidad de Guatemala', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.62754673767182,
         'longitud':-90.51544530557425,
         'direccion':'21 Calle 6-77 Zona 1, Centro Cívico, Palacio Municipal. Ciudad de Guatemala, Guatemala, Centroamérica.',
@@ -720,7 +720,7 @@ export const data = [
     {
         'id': '52',
         'institucion':'Registro Nacional de las Personas', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.626290943862776, 
         'longitud':-90.5494362640092,  
         'direccion':'Calzada Roosevelt 13-46 zona 7, Guatemala, Guatemala',
@@ -734,8 +734,8 @@ export const data = [
     
     {
         'id': '53',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-San pedro sula)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-San pedro sula)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':15.475249063103053, 
         'longitud':-88.02625386396309, 
         'direccion':'Zona el Cacao, 35 calle, 3ra. Avenida, sureste 5 cuadras después de la Toyota.',
@@ -749,7 +749,7 @@ export const data = [
     {
         'id': '54',
         'institucion':'Centro de Desarrollo Empresarial (CDE MIPYME valle de sula)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.603906233223253, 
         'longitud':-87.98844802864814,
         'direccion':'Barrio Paz Barahona, 9 Avenida, 12 y, 13 Calle SE, San Pedro Sula 21101',
@@ -792,7 +792,7 @@ export const data = [
     {
         'id': '57',
         'institucion':'Centro de Desarrollo Empresarial (CDE MIPYME SANTA BARBARA)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.207337407212076,
         'longitud':-88.17558303977495,
         'direccion':'Edificio AHPROCAFE, Barrio Llano del Conejo, Santa Bárbara',
@@ -806,7 +806,7 @@ export const data = [
     {
         'id': '58',
         'institucion':'Centro de Desarrollo Empresarial (CDE MIPYME REGIÓN OCCIDENTE)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.027033112258342, 
         'longitud':-88.75785840946729,
         'direccion':'Sector la Cuchilla frente a, Barrio Santa Teresa, Santa Rosa de Copán, la represa, Santa Rosa de Copán',
@@ -820,7 +820,7 @@ export const data = [
     {
         'id': '59',
         'institucion':'Centro de Desarrollo Empresarial (CDE MIPYME Ocotepeque)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.527756488291827,
         'longitud':-89.20829784639909,
         'direccion':'Frente a represa de agua, Barrio Santa Teresa, sector La Cuchilla, Santa Rosa de Copán',
@@ -834,7 +834,7 @@ export const data = [
     {
         'id': '60',
         'institucion':'Centro de Desarrollo Empresarial (CDE MIPYME LEMPIRA)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.517121178964025, 
         'longitud':-89.18632519093902,
         'direccion':'Edificio de AHPROCAFE, Gracias',
@@ -847,8 +847,8 @@ export const data = [
     },
     {
         'id': '61',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Tegucigalpa)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-Tegucigalpa)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.074860404209058, 
         'longitud':-87.1824814584797, 
         'direccion':'Bulevard Centroamérica, frente a Col. Miraflores., Tegucigalpa, Honduras',
@@ -862,7 +862,7 @@ export const data = [
     {
         'id': '62',
         'institucion':'Instituto Nacional de Migración', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.08864128424977,  
         'longitud':-87.18874221932694, 
         'direccion':'Centro Cívico Gubernamental, Edificio B, Piso 1 Blvd. Juan Pablo Segundo, Diag. Republica de Corea, Tegucigalpa',
@@ -876,7 +876,7 @@ export const data = [
     {
         'id': '63',
         'institucion':'Instituto de Derechos Humanos de la UCA', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.679728129557535,
         'longitud': -89.23603906141409,
         'direccion':'Bulevar Los Próceres, Antiguo Cuscatlán, La Libertad, El salvador',
@@ -890,7 +890,7 @@ export const data = [
     {
         'id': '64',
         'institucion':'Ciudad Mujer - San Miguel', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.482033935716261, 
         'longitud':-88.17739041006608, 
         'direccion':'Antiguo FENALDESAL, 15° calle Oriente, entre 10° y 8° Avenida Sur. Municipio de San Miguel.',
@@ -904,7 +904,7 @@ export const data = [
     {
         'id': '65',
         'institucion':'Ciudad Mujer - Usulután', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.482033935716261, 
         'longitud':-88.17739041006608, 
         'direccion':'Centro de Gobierno, 9a.calle oriente y final 8a. Avenida sur, Barrios el Calvario, frente al, 9a Calle Ote., Usulután, El Salvador',
@@ -918,7 +918,7 @@ export const data = [
     {
         'id': '66',
         'institucion':'Ciudad Mujer - Sede Lourdes Colón', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.78523669967114,    
         'longitud':-89.41652299215782,
         'direccion':'kilómetro 29 1/2 Carretera a Sonsonate, calle desvío a las 600, Cantón Entre Ríos, Colón, departamento de la Libertad',
@@ -932,7 +932,7 @@ export const data = [
     {
         'id': '67',
         'institucion':'Ciudad Mujer - Sede Santa Ana', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.958973835187598,     
         'longitud':-89.58151290291956,
         'direccion':'Ciudad Mujer Santa Ana, km. 61 ½ carretera Panamericana, finca Santa Teresa, Cantón Chupadero, Santa Ana, El Salvador',
@@ -946,7 +946,7 @@ export const data = [
     {
         'id': '68',
         'institucion':'Ciudad Mujer- San Martín', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.762238809493752,     
         'longitud':-89.05873750411467,
         'direccion':'Finca Gran Bretaña, Kilómetro 16 1/2 Carretera de Oro, Municipio de San Martín, Departamento de San Salvador, Autop. de Oro, San Salvador, El Salvador',
@@ -960,7 +960,7 @@ export const data = [
     {
         'id': '69',
         'institucion':'World Vision El Salvador', 
-        'categoria':'Atencion Psico-social', 
+        'categoria':'Asistencia Psico-social', 
         'latitud':13.631807052622582, 
         'longitud':-89.28487504670031,
         'direccion':'El Barillo, El Salvador',
@@ -974,7 +974,7 @@ export const data = [
     {
         'id': '70',
         'institucion':'Instituto Técnico de Capacitación y Productividad (INTECAP)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.748416638285883,   
         'longitud':-90.49356227118432,
         'direccion':'Mateo Flores 7-51, Calle del Estadio, Cdad. de Guatemala 01005, Guatemala',
@@ -988,7 +988,7 @@ export const data = [
     {
         'id': '71',
         'institucion':'Instituto Técnico de Capacitación y Productividad (INTECAP)- Coatepeque', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.940804316033296,    
         'longitud':-91.87169634198818,
         'direccion':'P428+Q7W, CA2, Coatepeque, Guatemala',
@@ -1016,7 +1016,7 @@ export const data = [
     {
         'id': '73',
         'institucion':'Bufete Popular de la Universidad Rafael Landívar', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.636894122753851,  
         'longitud':-90.51802110149107,
         'direccion':'Ciudad de Guatemala, 13 calle 2-73, zona 1',
@@ -1030,7 +1030,7 @@ export const data = [
     {
         'id': '75',
         'institucion':'Bufete Popular de la Universidad Rafael Landívar', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.501792634567975,   
         'longitud':-90.36287913400592,
         'direccion':'1.ª calle 5-28 zona 8, Edificio contiguo a Casa Damasco, Cobán, Alta Verapaz',
@@ -1044,7 +1044,7 @@ export const data = [
     {
         'id': '76',
         'institucion':'Bufete Popular de la Universidad Rafael Landívar', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.322430264972983,   
         'longitud':-91.49465026138031, 
         'direccion':'6.ª calle 9-90, zona 1, Campus San Roque González, S. J. de Huehuetenango',
@@ -1058,7 +1058,7 @@ export const data = [
     {
         'id': '77',
         'institucion':'Bufete Popular de la Universidad Rafael Landívar', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.840397662888138,   
         'longitud':-91.52226359022649,  
         'direccion':'Calle Rodolfo Robles 19-24, zona 3, Edificio Plaza Esmeralda, tercer nivel',
@@ -1071,8 +1071,8 @@ export const data = [
     },
     {
         'id': '78',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Gracias, Lempira)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-Gracias, Lempira)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.679344719732011, 
         'longitud':-88.60474106189291, 
         'direccion':'INFOP Gracias, Lempira, HCW3+7W5, Gracias',
@@ -1085,8 +1085,8 @@ export const data = [
     },
     {
         'id': '79',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Santa Rosa)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-Santa Rosa)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.849321988155115,  
         'longitud':-88.77228256216938, 
         'direccion':'Q6VG+RG4, Santa Rosa de Copán 41101',
@@ -1114,7 +1114,7 @@ export const data = [
     {
         'id': '81',
         'institucion':'Instituto Nacional de Migración - Tegucigalpa', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.088533223235325,      
         'longitud':-87.18879776273022, 
         'direccion':'Centro civico gubernamental Jose Cecilio del Valle',
@@ -1128,7 +1128,7 @@ export const data = [
     {
         'id': '82',
         'institucion':'Instituto Nacional de Migración - San Pedro Sula', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.529139379706608,       
         'longitud':-88.0229795598026, 
         'direccion':'Supermercado Hiper La Antorcha Boulevard Norte, salida a Cortes, San Pedro Sula, Cortes.',
@@ -1142,7 +1142,7 @@ export const data = [
     {
         'id': '83',
         'institucion':'Instituto Nacional de Migración- Choluteca', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.307379504686413,        
         'longitud':-87.19570551684909,
         'direccion':'Una cuadra al Norte de la pulperia Central, Choluteca, Choluteca.',
@@ -1156,7 +1156,7 @@ export const data = [
     {
         'id': '84',
         'institucion':'Instituto Nacional de Migración- Olancho', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.867515810619562,         
         'longitud':-85.88485458241038,
         'direccion':'Centro comercial Uniplaza, frente a Gosolinera Esso, entrada a Juticalpa, Juticalpa, Olancho.',
@@ -1170,7 +1170,7 @@ export const data = [
     {
         'id': '85',
         'institucion':'Instituto Nacional de Migración - Gracias Lempira', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.588733274829412,         
         'longitud':-88.58255819262388,
         'direccion':'Barrio El Centro, Frente a Banasupro, Casa No. 18-B, Gracias, Departamento de Lempira.',
@@ -1184,7 +1184,7 @@ export const data = [
     {
         'id': '86',
         'institucion':'Instituto Nacional de Migración - Ceiba Atlantida', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.77614704631528,          
         'longitud':-86.79049456708312,
         'direccion':'Oficina Regional de la Ceiba Centro Comercial Uniplaza segunda planta, Frente al Hospital Dantony, La Ceiba, Atlantida.',
@@ -1197,8 +1197,8 @@ export const data = [
     },
     {
         'id': '87',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-La Ceiba)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-La Ceiba)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':15.776546967438074,  
         'longitud':-86.80259260951203, 
         'direccion':'Boulevard 15 de Septiembre Contiguo a Policia Nacional, La Ceiba, Atlantida, La Ceiba, Honduras.',
@@ -1211,8 +1211,8 @@ export const data = [
     },
     {
         'id': '88',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-La Travesia)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-La Travesia)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.101536724660154,    
         'longitud':-87.15374436416134, 
         'direccion':'Infop Travesía, Entrada-Junior Eduardo Amador, Carretera Principal, Santa Maria Arizona, Honduras.',
@@ -1225,8 +1225,8 @@ export const data = [
     },
     {
         'id': '89',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-La Pradera)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-La Pradera)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.072379908587981,      
         'longitud':-87.22118663383453, 
         'direccion':'INFOP • La Pradera, 3QCH+PHJ, Tegucigalpa.',
@@ -1239,8 +1239,8 @@ export const data = [
     },
     {
         'id': '90',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-San Felipe)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-San Felipe)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.102128153480114,       
         'longitud':-87.18393975064892, 
         'direccion':'INFOP • San Felipe, 4R28+RC3, Tegucigalpa.',
@@ -1253,8 +1253,8 @@ export const data = [
     },
     {
         'id': '91',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Valle de Angeles)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-Valle de Angeles)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.159843596001481,        
         'longitud':-87.04438077720027, 
         'direccion':'INFOP, 5X54+H86, Valle de Ángeles.',
@@ -1366,7 +1366,7 @@ export const data = [
     {
         'id': '99',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (Oficina Central)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.079121926688918,       
         'longitud':-87.20265494738774, 
         'direccion':'Colonia Perez, atrás del Boulevard Kuwait, antiguo edificio donde funcionaba las Oficinas del IP.Tegucigalpa, Honduras C.A.',
@@ -1380,7 +1380,7 @@ export const data = [
     {
         'id': '100',
         'institucion':'CONADEH,  Oficina Regional del Litoral Atlántico', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.770779149848654,        
         'longitud':-86.79346046546621, 
         'direccion':'Colonia El Toronjal 2, entrada por Pollito La Cumbre del Gimnasio Azcona,dos cuadra derecho luego girar a la  derecha segunda casa mano izquierda, Casa color Amarillo La Ceiba, Atlántida, Honduras.',
@@ -1394,7 +1394,7 @@ export const data = [
     {
         'id': '101',
         'institucion':'CONADEH, Oficina Regional del Norte', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.536304834300044,         
         'longitud':-88.02729865376038, 
         'direccion':'Barrió Los Andes, 10 y 11 Avenida, Calle Noroeste, Contiguo a Centro Medico Galeanos, San Pedro Sula, Cortés, Honduras.',
@@ -1408,7 +1408,7 @@ export const data = [
     {
         'id': '102',
         'institucion':'CONADEH,Oficina Regional del Centro Occidente', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.515509028670605,          
         'longitud':-88.02958229206264, 
         'direccion':'Colonia los Almendros atrás de Camara de Comercio, cerca del Parqueo del Ministerio Publico Comayagua, Comayagua, Honduras',
@@ -1422,7 +1422,7 @@ export const data = [
     {
         'id': '103',
         'institucion':'CONADEH,Oficina Regional del Sur', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.309727794527342,           
         'longitud':-87.19411571228663, 
         'direccion':'Barrió El Centro, Calle Morazán, Choluteca, Choluteca, Honduras',
@@ -1436,7 +1436,7 @@ export const data = [
     {
         'id': '104',
         'institucion':'CONADEH, Oficina Regional de Occidente', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.767615749050163,            
         'longitud':-88.77536823964849, 
         'direccion':'Bo. Mercedes Dos cuadras y media al Este de la 120 Brigada de Infantería,\nSanta Rosa de Copán, Copán, Honduras',
@@ -1450,7 +1450,7 @@ export const data = [
     {
         'id': '105',
         'institucion':'CONADEH, Oficina Departamental de Gracias a Dios', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.943226990870368,             
         'longitud':-84.08266734992777, 
         'direccion':'Barrió Punta Fría, Puerto Lempira, Gracias a Dios, Honduras',
@@ -1492,7 +1492,7 @@ export const data = [
     {
         'id': '108',
         'institucion':'Comisión Nacional Para el Desarrollo de la Educación Alternativa No Formal (CONEANFO)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.082052086404168,               
         'longitud':-87.18818932864872, 
         'direccion':'Colonia Loma Verde, Entrada frente al Centro Comercial Centro America, Tegucigalpa,Honduras.',
@@ -1506,7 +1506,7 @@ export const data = [
     {
         'id': '109',
         'institucion':'Centro Nacional de Educación para el Trabajo', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.082052086404168,               
         'longitud':-87.18818932864872, 
         'direccion':'Una cuadra norte de Iglesia la Caridad, Bo. La Caridad, Comayagua,Comayagua, Honduras, C.A.',
@@ -1520,7 +1520,7 @@ export const data = [
     {
         'id': '110',
         'institucion':'Banco Hondureño para la Producción y la Vivienda (BANHPROVI)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.087172097075799,                
         'longitud':-87.18977976345798, 
         'direccion':'Edificio BANHPROVI, Bulevar Juan Pablo II, Contiguo al Centro Cívico Gubernamental José Cecilio del Valle, Tegucigalpa, Honduras, C.A. ',
@@ -1534,7 +1534,7 @@ export const data = [
     {
         'id': '111',
         'institucion':'Banco Hondureño para la Producción y la Vivienda (BANHPROVI)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':15.51009167799713,               
         'longitud':-88.0242338675966, 
         'direccion':'Edificio BANHPROVI, Bulevar Juan Pablo II, Contiguo al Centro Cívico Gubernamental José Cecilio del Valle, Tegucigalpa, Honduras, C.A. ',
@@ -1548,7 +1548,7 @@ export const data = [
     {
         'id': '112',
         'institucion':'Banco Nacional de Desarrollo Agrícola(BANADESA)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.10511127598026,                
         'longitud':-87.23436352874974, 
         'direccion':'Barrio Concepcion entre 4ta y 5ta Ave. 13 calle, contiguo al Estado Mayor, Comayaguela, M.D.C. Honduras C.A.',
@@ -1576,7 +1576,7 @@ export const data = [
     {
         'id': '114',
         'institucion':'Organización Internacional para las Migraciones', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.113095945511912,                 
         'longitud':-87.19637149478997,  
         'direccion':'Colonia Palmira, 3ra avenida, Calle del Brasil, bloque 3, casa 12.',
@@ -1590,7 +1590,7 @@ export const data = [
     {
         'id': '115',
         'institucion':'BANADESA (Santa Bárbara)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.926371919189325,                 
         'longitud':-88.23384796934305, 
         'direccion':'WQ97+HRG, Santa Bárbara.',
@@ -1604,7 +1604,7 @@ export const data = [
     {
         'id': '116',
         'institucion':'BANADESA (Catacamas, Comayagua)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.854460203197975,                  
         'longitud':-85.8970909429674, 
         'direccion':'BANADESA, F965+65R, Calle 5 NO, Comayagua',
@@ -1618,7 +1618,7 @@ export const data = [
     {
         'id': '117',
         'institucion':'BANADESA (Danli, El Paraiso)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.037374351704607,                  
         'longitud':-86.56460059566558,  
         'direccion':'BANADESA, 2CJM+RG5, V-216, Danlí',
@@ -1632,7 +1632,7 @@ export const data = [
     {
         'id': '118',
         'institucion':'BANADESA (Nacaome,Valle)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':13.533926636281594,                   
         'longitud':-87.48791040199819,  
         'direccion':'BANADESA, GGJ6+8X3, Nacaome',
@@ -1646,7 +1646,7 @@ export const data = [
     {
         'id': '119',
         'institucion':'BANADESA (La Ceiba)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':15.783117325693487,                    
         'longitud':-86.79143325511276,  
         'direccion':'calle 9, La Ceiba, Honduras',
@@ -1660,7 +1660,7 @@ export const data = [
     {
         'id': '120',
         'institucion':'BANADESA (La Ceiba, Tocoa Colon)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':15.687681385429991,                    
         'longitud':-85.997029215713,  
         'direccion':'M232+J3H, Bo. La Ceiba, Tocoa Colon 32301',
@@ -1674,7 +1674,7 @@ export const data = [
     {
         'id': '121',
         'institucion':'BANADESA (Yoro)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':15.687681385429991,                    
         'longitud':-85.997029215713,  
         'direccion':'4VQF+3P5, Yoro',
@@ -1688,7 +1688,7 @@ export const data = [
     {
         'id': '122',
         'institucion':'BANADESA (Yoro)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':15.428158980098257,                     
         'longitud':-87.8096892458116,  
         'direccion':'C52Q+89W, 3A Avenida Este, El Progreso',
@@ -1702,7 +1702,7 @@ export const data = [
     {
         'id': '123',
         'institucion':'BANADESA (Marcala)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.24774558189414,                      
         'longitud':-88.05077967138787,  
         'direccion':'5X38+R8J, Marcala',
@@ -1716,7 +1716,7 @@ export const data = [
     {
         'id': '124',
         'institucion':'BANADESA (Intibucá)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.412735125876933,                       
         'longitud':-88.18261560603163,  
         'direccion':'8R6F+2X7, Intibucá',
@@ -1730,7 +1730,7 @@ export const data = [
     {
         'id': '125',
         'institucion':'BANADESA (Mall Premier, Tegucigalpa)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.121843213327764,                        
         'longitud':-87.23547178310778,  
         'direccion':'4Q38+W7V, Mall Premier, Tegucigalpa',
@@ -1744,7 +1744,7 @@ export const data = [
     {
         'id': '126',
         'institucion':'BANADESA (Talanga, Francisco Morazan)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.418055349521598,                        
         'longitud': -87.08423326537364,  
         'direccion':'CW29+H8X, Talanga',
@@ -1758,7 +1758,7 @@ export const data = [
     {
         'id': '127',
         'institucion':'BANADESA (Choluteca)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':13.342231789935298,                        
         'longitud':-87.1891909874634,  
         'direccion':'8R45+6P8, Choluteca',
@@ -1772,7 +1772,7 @@ export const data = [
     {
         'id': '128',
         'institucion':'Albergue Centro de Descanso FAS', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.86576964456993,   
         'longitud':-86.56181827715261,
         'direccion':'Barrio San José, edificio Hospital Alivio del Sufrimiento,El Paraíso, El Paraíso, Honduras, C.A.',
@@ -1786,7 +1786,7 @@ export const data = [
     {
         'id': '129',
         'institucion':'Instituto Técnico de Capacitación y Productividad (INTECAP)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.688617189526942,   
         'longitud':-90.51550574667979,
         'direccion':'Mateo Flores 7-51, Calle del Estadio, Cdad. de Guatemala 01005, Guatemala.',
@@ -1800,7 +1800,7 @@ export const data = [
     {
         'id': '130',
         'institucion':'Instituto Técnico de Capacitación y Productividad (INTECAP)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.75114529137584,    
         'longitud':-91.89127649401455,
         'direccion':'P428+Q7W, CA2, Coatepeque, Guatemala.',
@@ -1813,8 +1813,8 @@ export const data = [
     },
     {
         'id': '131',
-        'institucion':'Instituto Guatemalteco de Migracion(2)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Instituto Guatemalteco de Migración(2)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.598040515408712, 
         'longitud':-90.52039164893549,
         'direccion':'6av. 3-11 zona 4 Ciudad de Guatemala',
@@ -1827,8 +1827,8 @@ export const data = [
     },
     {
         'id': '132',
-        'institucion':'Ministerio de Trabajo y Prevision Social', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.03996443261484,  
         'longitud':-91.80484767950927,
         'direccion':'X674+59X, 8va Av, San Marcos, Guatemala',
@@ -1841,8 +1841,8 @@ export const data = [
     },
     {
         'id': '133',
-        'institucion':'Ministerio de Trabajo y Prevision Social (Salama)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social (Salama)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.213963318099632, 
         'longitud':-90.3137969590233, 
         'direccion':'8a Avenida 3-20, Salamá, Guatemala',
@@ -1855,8 +1855,8 @@ export const data = [
     },
     {
         'id': '134',
-        'institucion':'Ministerio de Trabajo y Prevision Social (Guastatoya)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social (Guastatoya)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.976626649199494,  
         'longitud':-90.06763454456289, 
         'direccion':'VW2J+PWM, Guastatoya, Guatemala',
@@ -1869,8 +1869,8 @@ export const data = [
     },
     {
         'id': '135',
-        'institucion':'Ministerio de Trabajo y Prevision Social (Zacapa)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social (Zacapa)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.088035531454752,   
         'longitud':-89.49085230851122, 
         'direccion':'XFC6+QWC, Zacapa, Guatemala',
@@ -1883,8 +1883,8 @@ export const data = [
     },
     {
         'id': '136',
-        'institucion':'Ministerio de Trabajo y Prevision Social (Santa Lucía Cotzumalguapa)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social (Santa Lucía Cotzumalguapa)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.463936958587919,   
         'longitud':-91.01314542056922,  
         'direccion':'Barrio El Bilbao lote 18, Santa Lucía Cotzumalguapa, Guatemala',
@@ -1897,8 +1897,8 @@ export const data = [
     },
     {
         'id': '137',
-        'institucion':'Ministerio de Trabajo y Prevision Social (Cuilapa)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Trabajo y Previsión Social (Cuilapa)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.357530374012075,   
         'longitud': -90.28804775238996,  
         'direccion':'7PJ2+48M, Cuilapa, Guatemala',
@@ -1911,8 +1911,8 @@ export const data = [
     },
     {
         'id': '138',
-        'institucion':'Ministerio de Economia (San Marcos)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Economía (San Marcos)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.126484583092454,
         'longitud': -91.77085873925358, 
         'direccion':'9a. Calle 541, San Marcos, Guatemala',
@@ -1925,8 +1925,8 @@ export const data = [
     },
     {
         'id': '139',
-        'institucion':'Ministerio de Economia (Alta Verapaz)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Economía  (Alta Verapaz)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.587324748524729, 
         'longitud':-90.35911555196523, 
         'direccion':'FJCM+2C5, Cobán, Guatemala',
@@ -1939,8 +1939,8 @@ export const data = [
     },
     {
         'id': '140',
-        'institucion':'Ministerio de Economia (Quezaltenango)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Economía (Quezaltenango)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.9142654044463,  
         'longitud':-91.56761168963655, 
         'direccion':'RFX7+PRQ, 7a Calle, Quezaltenango, Guatemala',
@@ -1953,8 +1953,8 @@ export const data = [
     },
     {
         'id': '141',
-        'institucion':'Ministerio de Migracion(Centro de Emisión de Pasaportes)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Migración(Centro de Emisión de Pasaportes)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.872459973189041,  
         'longitud':-90.57197563299827,
         'direccion':'JFFM+46X, Ruta 3, Cdad. de Guatemala, Guatemala',
@@ -1967,8 +1967,8 @@ export const data = [
     },
     {
         'id': '142',
-        'institucion':'Ministerio de Migracion(DE XELA)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Ministerio de Migración(DE XELA)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.917215031480922,   
         'longitud':-91.54360350201063,
         'direccion':'VF27+W9R, Quezaltenango, Guatemala',
@@ -1982,7 +1982,7 @@ export const data = [
     {
         'id': '143',
         'institucion':'Registro Nacional de las Personas', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.64782510969787, 
         'longitud':-90.51178576240021,  
         'direccion':'JFQM+VHR, 10A Calle, Cdad. de Guatemala, Guatemala',
@@ -1996,7 +1996,7 @@ export const data = [
     {
         'id': '144',
         'institucion':'Dirección de Innovación Productiva y Competitividad Empresarial (DIPCE)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.703457728110662,  
         'longitud':-89.21224500422113,
         'direccion':'41 Avenida Nte., San Salvador, El Salvador',
@@ -2010,7 +2010,7 @@ export const data = [
     {
         'id': '145',
         'institucion':'Dirección Nacional de Inversiones - Ministerio de Economía', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.704047835138253,  
         'longitud':-89.22987616493782,
         'direccion':'PQ3C+F29, San Salvador, El Salvador',
@@ -2024,7 +2024,7 @@ export const data = [
     {
         'id': '146',
         'institucion':'Banco de Fomento Agropecuario (Santa Tecla)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.68193108473386, 
         'longitud':-89.26790953421266,
         'direccion':'MPHJ+F75, Calle Chiltiupan, Santa Tecla, El Salvador.',
@@ -2038,7 +2038,7 @@ export const data = [
     {
         'id': '147',
         'institucion':'Banco de Fomento Agropecuario BFA', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.706670203632788, 
         'longitud':-89.21882874857437,
         'direccion':'53 Avenida Sur y, Av. Olímpica, San Salvador, El Salvador',
@@ -2052,7 +2052,7 @@ export const data = [
     {
         'id': '148',
         'institucion':'Banco de Fomento Agropecuario', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.712047929182985, 
         'longitud':-89.19594898625101,
         'direccion':'PR33+H2P, 13 Avenida Nte., San Salvador, El Salvador',
@@ -2066,7 +2066,7 @@ export const data = [
     {
         'id': '149',
         'institucion':'Banco de Fomento Agropecuario (San Juan Opico)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.892327612888655, 
         'longitud':-89.35723861809699,
         'direccion':'VJGR+M45, San Juan Opico, El Salvador',
@@ -2080,7 +2080,7 @@ export const data = [
     {
         'id': '150',
         'institucion':'Banco de Fomento Agropecuario (San Salvador)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.744442754130626,
         'longitud':-89.05689860480692,
         'direccion':'PWPV+MWR, Pasaje San José, San Salvador, El Salvador',
@@ -2094,7 +2094,7 @@ export const data = [
     {
         'id': '151',
         'institucion':'Ministerio de Desarrollo Local- Gerencia de Asistencia Alimentaria - GAA', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.804343839495912, 
         'longitud':-89.38963049443358,
         'direccion':'QJW5+V5X, San Juan Opico, El Salvador',
@@ -2108,7 +2108,7 @@ export const data = [
     {
         'id': '152',
         'institucion':'Ministerio de Gobernación y Desarrollo Territorial', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.71564292745998, 
         'longitud':-89.19713620175945,
         'direccion':'PR32+VPH, San Salvador, El Salvador',
@@ -2122,7 +2122,7 @@ export const data = [
     {
         'id': '153',
         'institucion':'Migración y Extranjería - Plaza Mundo', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.699393449037343, 
         'longitud':-89.15174303750472,
         'direccion':'MRXX+85P, San Salvador, El Salvador',
@@ -2136,7 +2136,7 @@ export const data = [
     {
         'id': '154',
         'institucion':'Dirección de Atención al Migrante CAIM', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.704697425683975, 
         'longitud':-89.19796865015905,
         'direccion':'MRXG+HJH, San Salvador, El Salvador',
@@ -2150,7 +2150,7 @@ export const data = [
     {
         'id': '155',
         'institucion':'Instituto Salvadoreño Para El Desarrollo Integral De La Niñez Y La Adolescencia', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.704697425683975, 
         'longitud':-89.19796865015905,
         'direccion':'MRG2+PP7, San Salvador, El Salvador',
@@ -2164,7 +2164,7 @@ export const data = [
     {
         'id': '156',
         'institucion':'Direccion General de Migracion y Extranjeria', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.712787036680334, 
         'longitud':-89.22887252968573,
         'direccion':'PQ2F+F5W, San Salvador, El Salvador',
@@ -2178,7 +2178,7 @@ export const data = [
     {
         'id': '157',
         'institucion':'Dirección General de Migración y Extranjería - Pasaportes', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.708492711693081,   
         'longitud':-89.2492175078511,
         'direccion':'PQ32+58V, El, P.º Gral. Escalón, San Salvador, El Salvador.',
@@ -2192,7 +2192,7 @@ export const data = [
     {
         'id': '158',
         'institucion':'Direccion General de Migracion y Extranjeria', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.748847927722005, 
         'longitud':-89.36086177587003, 
         'direccion':'Centro Comercial Pasatiempo, Lourdes, El Salvador',
@@ -2206,7 +2206,7 @@ export const data = [
     {
         'id': '159',
         'institucion':'Dirección General de Migración y Extranjería • Cascadas', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.683955183986823,  
         'longitud':-89.25179242853362,
         'direccion':'MPHX+9XF, Cd Merliot, El Salvador',
@@ -2220,7 +2220,7 @@ export const data = [
     {
         'id': '160',
         'institucion':'Dirección General de Migración y Extranjería • Santa Ana', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.000201857383233,   
         'longitud':-89.58010155237655,
         'direccion':'XCHJ+77P, Plaza Bolcaña, Colonia El Palmar, Ave Fray Felipe De Jesus Moraga Sur, Santa Ana, El Salvador',
@@ -2234,7 +2234,7 @@ export const data = [
     {
         'id': '161',
         'institucion':'Dirección General de Migración y Extranjería • Usulután', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.363232896370297,   
         'longitud':-88.43511849743021,
         'direccion':'8HW5+3RW, 2a Calle Pte., Usulután, El Salvador',
@@ -2248,7 +2248,7 @@ export const data = [
     {
         'id': '162',
         'institucion':'Dirección General de Migración y Extranjería • San Miguel', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.514499533046285,   
         'longitud':-88.17232040654034,
         'direccion':'FR8G+2PW, San Miguel, El Salvador',
@@ -2262,7 +2262,7 @@ export const data = [
     {
         'id': '163',
         'institucion':'Regional de Ahuachapan Procuraduría general de la República', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.001700910701999,  
         'longitud':-89.84305178302345,
         'direccion':'Unidad Municipal de la Niñez Adolescencia y Juventud, 3A Calle Oriente, Ahuachapán, El Salvador ',
@@ -2275,8 +2275,8 @@ export const data = [
     },
     {
         'id': '164',
-        'institucion':'Procuraduria General De La Republica Sonsonate', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República Sonsonate', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.836413142090969,  
         'longitud':-89.73318849996599,
         'direccion':'4A Calle Oriente casa 22, Sonzacate, El Salvador.',
@@ -2289,8 +2289,8 @@ export const data = [
     },
     {
         'id': '165',
-        'institucion':'Procuraduria General de la Republica (Santa Ana)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República  (Santa Ana)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.1322475739421,  
         'longitud':-89.50366848035416,
         'direccion':'XCWP+GM8, Avenida Fray Felipe De Jesus Moraga, Santa Ana, El Salvador',
@@ -2304,7 +2304,7 @@ export const data = [
     {
         'id': '166',
         'institucion':'Procuraduría General de la República Auxiliar de Metapán', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.43567765922358,  
         'longitud':-89.44324367467256,
         'direccion':'Av. Benjamín Estrada Valiente 9, Metapán, El Salvador',
@@ -2317,8 +2317,8 @@ export const data = [
     },
     {
         'id': '167',
-        'institucion':'Procuraduria General de la Republica', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.032179563887915,  
         'longitud':-89.58409873646504,
         'direccion':'XCWP+GM8, Avenida Fray Felipe De Jesus Moraga, Santa Ana, El Salvador.',
@@ -2331,8 +2331,8 @@ export const data = [
     },
     {
         'id': '168',
-        'institucion':'Procuraduria General de la Republica (Zacatecoluca)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República  (Zacatecoluca)', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.526276041549627,  
         'longitud':-88.86095201451396,
         'direccion':'C. Dr. Miguel Tomás Molina 28, Zacatecoluca, El Salvador',
@@ -2345,8 +2345,8 @@ export const data = [
     },
     {
         'id': '169',
-        'institucion':'Procuraduria General de la Republica', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.491798936554641,  
         'longitud':-88.18375392749091,
         'direccion':'FRGC+2XX, 3A Avenida Sur, San Miguel, El Salvador',
@@ -2359,8 +2359,8 @@ export const data = [
     },
     {
         'id': '170',
-        'institucion':'Procuraduría General de la Republica • Sensuntepeque', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'institucion':'Procuraduría General de la República • Sensuntepeque', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.936233100849883,  
         'longitud':-88.62430481196753,
         'direccion':'V9F9+9PW, 6a Calle Pte., Sensuntepeque, El Salvador',
@@ -2374,7 +2374,7 @@ export const data = [
     {
         'id': '171',
         'institucion':'Procuraduría General de la Republica • Sensuntepeque', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.077473675272632,  
         'longitud':-88.93741516868128,
         'direccion':'23V7+MJ7, C. a Turicentro Agua Fria, Chalatenango, El Salvador',
@@ -2388,7 +2388,7 @@ export const data = [
     {
         'id': '172',
         'institucion':'Centro de Desarrollo Empresarial (CDE Golfo de Fonseca)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':13.307972406569561,  
         'longitud':-87.18649228859736,
         'direccion':'Barrio Tamarindo, Plaza Marjelos. Choluteca, Choluteca',
@@ -2402,7 +2402,7 @@ export const data = [
     {
         'id': '173',
         'institucion':'Centro de Desarrollo Empresarial (CDE Región Lempa)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.31356649410537, 
         'longitud':-88.14050605905462, 
         'direccion':'La Esperanza 14104, CA-7, La Esperanza 14104',
@@ -2416,7 +2416,7 @@ export const data = [
     {
         'id': '174',
         'institucion':'Centro de Desarrollo Empresarial (CDE Coordillera Nombre de Dios)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.154829625695927, 
         'longitud':-87.13076808099053, 
         'direccion':'4VPF+V2F, Yoro',
@@ -2430,7 +2430,7 @@ export const data = [
     {
         'id': '175',
         'institucion':'Centro de Desarrollo Empresarial (CDE Región el Paraíso)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.030537980038185,  
         'longitud':-86.56582555964644, 
         'direccion':'Casa Cural, Danlí, una cuadra al este de, Danlí 13201',
@@ -2444,7 +2444,7 @@ export const data = [
     {
         'id': '176',
         'institucion':'Centro de Desarrollo Empresarial (CDE Región el Paraíso)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.26461001875708,   
         'longitud':-83.7725217848453, 
         'direccion':'767G+QXX, Puerto Lempira',
@@ -2458,7 +2458,7 @@ export const data = [
     {
         'id': '177',
         'institucion':'Centro de Desarrollo Empresarial (CDE Valle Lean)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':15.780175265735679,    
         'longitud':-86.7953853243983, 
         'direccion':'Camara de Comercio e Industrias de Atlántida, Edificio CCIA,, La Ceiba',
@@ -2472,7 +2472,7 @@ export const data = [
     {
         'id': '178',
         'institucion':'Centro de Desarrollo Empresarial (CDE Comayagua)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.46869221596583,    
         'longitud':-87.64656932654434, 
         'direccion':'F993+69G, Comayagua',
@@ -2486,7 +2486,7 @@ export const data = [
     {
         'id': '179',
         'institucion':'Centro de Desarrollo Empresarial (CDE Olancho)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.690285404865982,     
         'longitud':-86.23124804173041, 
         'direccion':'Col. Bella Vista, Salida a Tegucigalpa edif. filial Cooperativa Juticalpa, Cubìculo # 2, Juticalpa 16101',
@@ -2500,7 +2500,7 @@ export const data = [
     {
         'id': '180',
         'institucion':'Centro de Desarrollo Empresarial (CDE Region 12 centro)', 
-        'categoria':'Emprendimiento Empresarial (Formalizacion legal y marketing)', 
+        'categoria':'Emprendimiento Empresarial (Formalización legal y marketing)', 
         'latitud':14.05312088043551,      
         'longitud':-87.18088388855844, 
         'direccion':'2RW9+9HJ, Ent. UTH, Tegucigalpa',
@@ -2513,8 +2513,8 @@ export const data = [
     },
     {
         'id': '181',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-San Lorenzo, Valle)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación  Profesional (INFOP-San Lorenzo, Valle)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.447752799609278,        
         'longitud':-87.46293227082266, 
         'direccion':'CGXP+3RP, San Lorenzo',
@@ -2527,8 +2527,8 @@ export const data = [
     },
     {
         'id': '182',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Catacamas, Olancho)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación  Profesional (INFOP-Catacamas, Olancho)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.857351178140108,         
         'longitud':-85.86195233651465, 
         'direccion':'V44Q+V7 Catacamas',
@@ -2541,8 +2541,8 @@ export const data = [
     },
     {
         'id': '183',
-        'institucion':'Instituto Hondureño de Formacion Profesional (INFOP-Catacamas, Olancho)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Instituto Hondureño de Formación Profesional (INFOP-Catacamas, Olancho)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.425575753746259,         
         'longitud':-89.18546272475854, 
         'direccion':'CRG7+6RF, Departamento de, Ocotepeque',
@@ -2556,7 +2556,7 @@ export const data = [
     {
         'id': '184',
         'institucion':'CENET - Centro Nacional de Educación para el Trabajo', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.465231864657785,         
         'longitud': -87.6450793187487, 
         'direccion':'Bo. La Caridad, una cuadra al norte de Iglesia La Caridad., Comayagua',
@@ -2570,7 +2570,7 @@ export const data = [
     {
         'id': '185',
         'institucion':'Comisión Nacional Para el Desarrollo de la Educación Alternativa No Formal (CONEANFO)', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.082266091596152,          
         'longitud':-87.18813874446215, 
         'direccion':'Colonia Loma Verde, Entrada frente al Centro Comercial Centro America, Tegucigalpa,Honduras',
@@ -2584,7 +2584,7 @@ export const data = [
     {
         'id': '186',
         'institucion':'Finca de la Esperanza Honduras', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.053629468942244,           
         'longitud':-86.9031310098765, 
         'direccion':'Aldea Guayabillas',
@@ -2598,7 +2598,7 @@ export const data = [
     {
         'id': '187',
         'institucion':'Secretaría de Relaciones Exteriores y Cooperación Internacional', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.071347877156153,      
         'longitud':-87.2012466714059,
         'direccion':'Bulevar Kuwait, contiguo a la Corte Suprema de Justicia (CSJ), Tegucigalpa, Honduras.',
@@ -2612,7 +2612,7 @@ export const data = [
     {
         'id': '188',
         'institucion':'Secretaría de Relaciones Exteriores y Cooperación Internacional', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.071347877156153,      
         'longitud':-87.2012466714059,
         'direccion':'Bulevar Kuwait, contiguo a la Corte Suprema de Justicia (CSJ), Tegucigalpa, Honduras.',
@@ -2626,7 +2626,7 @@ export const data = [
     {
         'id': '189',
         'institucion':'Carita Feliz , Estimulacion temprana y Day care', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':15.529527512125041,       
         'longitud':-88.02795233239624,
         'direccion':'GXGC+3P2, San Pedro Sula 21102',
@@ -2640,7 +2640,7 @@ export const data = [
     {
         'id': '190',
         'institucion':'Caritas Comayagua', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.60957298717997,        
         'longitud':-87.91199503327981,
         'direccion':'Comayagua',
@@ -2654,7 +2654,7 @@ export const data = [
     {
         'id': '191',
         'institucion':'Caritas Choluteca', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.31251808571822,         
         'longitud':-87.1929852691099,
         'direccion':'8R44+7J8, 4ª Avenida, Choluteca',
@@ -2668,7 +2668,7 @@ export const data = [
     {
         'id': '192',
         'institucion':'Caritas Santa Rosa de Copán', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.769664246977875,          
         'longitud':-88.78280820582677,
         'direccion':'C. Real Centenario, Santa Rosa de Copán 41101',
@@ -2682,7 +2682,7 @@ export const data = [
     {
         'id': '193',
         'institucion':'Pastoral Social Cáritas. Diocesis de Yoro', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':15.397081954208089,           
         'longitud':-87.8086584058122,
         'direccion':'95WR+QGG, El Progreso',
@@ -2836,7 +2836,7 @@ export const data = [
     {
         'id': '204',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH)', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.0897360057673,                
         'longitud':-87.18939676368016, 
         'direccion':'Colonia Pérez, atrás del Boulevard Kuwait, antiguo edificio donde funcionaba las Oficinas del IP.Tegucigalpa, Honduras C.A.',
@@ -2850,7 +2850,7 @@ export const data = [
     {
         'id': '205',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Litoral Atlántico', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.770835584490298,                
         'longitud':-86.79345399416556, 
         'direccion':'Colonia El Toronjal 2, entrada por Pollito La Cumbre del Gimnasio Azcona',
@@ -2864,7 +2864,7 @@ export const data = [
     {
         'id': '206',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Norte.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.508841334511759,                
         'longitud':-88.03105519594929 , 
         'direccion':'Barrió Los Andes, 10 y 11 Avenida, Calle Noroeste, Contiguo a Centro Medico Galeanos, San Pedro Sula, Cortés, Honduras.',
@@ -2877,7 +2877,7 @@ export const data = [
     },  {
         'id': '207',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Centro Occidente ', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.467446360883374,                 
         'longitud':-87.64327713466977, 
         'direccion':'Colonia los Almendros atrás de Camara de Comercio, cerca del Parqueo del Ministerio Publico Comayagua, Comayagua, Honduras',
@@ -2891,7 +2891,7 @@ export const data = [
     {
         'id': '208',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Centro Oriente', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.057831474488394,                  
         'longitud':-87.18040989049751, 
         'direccion':'Colonia Florencia Norte, Boulevard Suyapa, Tegucigalpa, Honduras C.A.',
@@ -2905,7 +2905,7 @@ export const data = [
     {
         'id': '209',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Sur.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.306725039695806,                  
         'longitud':-87.19157449422035, 
         'direccion':'Barrió El Centro, Calle Morazán, Choluteca, Choluteca, Honduras',
@@ -2919,7 +2919,7 @@ export const data = [
     {
         'id': '210',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional de Occidente.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.767174348413501,                  
         'longitud':-88.77537447302542, 
         'direccion':'Bo. Mercedes Dos cuadras y media al Este de la 120 Brigada de Infantería, Santa Rosa de Copán, Copán, Honduras',
@@ -2933,7 +2933,7 @@ export const data = [
     {
         'id': '211',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Colón.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.657317053673179,                  
         'longitud':-85.99804762115089, 
         'direccion':'Bo. La Ceiba, cuadra y media al sur de Ferretería Lesvi,Tocoa, Colón, Honduras',
@@ -2947,7 +2947,7 @@ export const data = [
     {
         'id': '212',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH),Oficina Departamental de El Paraíso.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.958643294615316,                
         'longitud':-86.85504683653447,   
         'direccion':'Barrio Oriental, media cuadra al sur del Ministerio PúblicoDanlí, El Paraíso, Honduras.',
@@ -2961,7 +2961,7 @@ export const data = [
     {
         'id': '213',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Gracias a Dios.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.35763797153444,                   
         'longitud':-84.61223650201546, 
         'direccion':'Barrió Punta Fría,Puerto Lempira, Gracias a Dios, Honduras.',
@@ -2975,7 +2975,7 @@ export const data = [
     {
         'id': '214',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Intibucá.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.313313922104578,                  
         'longitud':-88.15408397911224, 
         'direccion':'Ciudad Cívica, frente a la oficina de Los Bomberos, atrás del Palacio Judicial La Esperanza Intibucá, Honduras',
@@ -2989,7 +2989,7 @@ export const data = [
     {
         'id': '215',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Lempira.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.590930294582881,                  
         'longitud':-88.58730640855528, 
         'direccion':'Barrió Mercedes, Calle Principal Avenida Circunvalación, Gracias, Lempira, Honduras.',
@@ -3004,7 +3004,7 @@ export const data = [
     {
         'id': '216',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Santa Bárbara.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.943723643405246,                  
         'longitud':-88.24080886349525,
         'direccion':'Barrió las Galeras, atrás del Palacio Justicia del Poder Judicial, Santa Bárbara, Santa Bárbara, Honduras.',
@@ -3018,7 +3018,7 @@ export const data = [
     {
         'id': '217',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Regional del Norte.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.509048098216207,                 
         'longitud':-88.03105519594929, 
         'direccion':'Barrió Los Andes, 10 y 11 Avenida, Calle Noroeste, Contiguo a Centro Medico Galeanos, San Pedro Sula, Cortés, Honduras.',
@@ -3032,7 +3032,7 @@ export const data = [
     {
         'id': '218',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH),Oficina Departamental de Yoro.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.131846924424119,                  
         'longitud':-87.12884010581844, 
         'direccion':'Barrió Las Brisas, contigo a la escuela Ester GumperYoro, Yoro, Honduras.',
@@ -3046,7 +3046,7 @@ export const data = [
     {
         'id': '219',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina de El Progreso.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':15.384682320712287,                  
         'longitud':-87.81686321679906, 
         'direccion':'Barrió San Francisco, entre 12 y 13 Ave, 10 Calle, Sureste, El Progreso, Yoro, Honduras.',
@@ -3060,7 +3060,7 @@ export const data = [
     {
         'id': '220',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Islas de la Bahía.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':16.33353525884261,                  
         'longitud':-86.53445511742258, 
         'direccion':'Barrió El Centro, Coxen Hole, Edificio Anancy Plaza, Roatán, Islas de La Bahía, Honduras.',
@@ -3074,7 +3074,7 @@ export const data = [
     {
         'id': '221',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de La Paz.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.329374833015532,                 
         'longitud':-87.6731874124542,
         'direccion':'Barrió La Merced, Bosque Municipal a 150 metros del parqueo de vehículos de la Policía de Tránsito, La Paz, La Paz, Honduras.',
@@ -3088,7 +3088,7 @@ export const data = [
     {
         'id': '222',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Valle.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':13.55561686715306,                  
         'longitud':-87.48556378050814, 
         'direccion':'Barrio Abajo dos cuadras abajo del Banco Atlántida, atrás de la casa de la cultura frente al comedor infantil, Nacaome, Valle, Honduras.',
@@ -3102,7 +3102,7 @@ export const data = [
     {
         'id': '223',
         'institucion':'BANADESA (Catacamas, Olancho)', 
-        'categoria':'Financiamiento (Creditos)', 
+        'categoria':'Financiamiento (Créditos)', 
         'latitud':14.854460203197975,                  
         'longitud':-85.8970909429674, 
         'direccion':'V433+Q5C, Catacamas, Barrio el Centro una cuadra abajo de la municipalidad',
@@ -3116,7 +3116,7 @@ export const data = [
     {
         'id': '224',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Ocotepeque.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.435934248781724,                  
         'longitud':-89.18370724734186, 
         'direccion':'Barrió Concepción, 2da. Calle, 2da. y 3ra. Ave. Noroeste, Nueva Ocotepeque, Ocotepeque, Honduras.',
@@ -3130,7 +3130,7 @@ export const data = [
     {
         'id': '225',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Departamental de Olancho.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.673063049286363,                  
         'longitud':-86.22041859712373, 
         'direccion':'Barrió Las Flores, una cuadra al norte de la plaza central y ½ cuadra al este,',
@@ -3144,7 +3144,7 @@ export const data = [
     {
         'id': '226',
         'institucion':'Comité para la Defensa de los Derechos Humanos en Honduras (CODEH), Oficina Juticalpa, Olancho.', 
-        'categoria':'Orientacion y Servicios Legales', 
+        'categoria':'Orientación y Servicios Legales', 
         'latitud':14.672414392554995,                  
         'longitud':-86.21857742310782,
         'direccion':'frente al instituto pedagógico Manuel Antonio Santos,Juticalpa, Olancho, Honduras',
@@ -3158,7 +3158,7 @@ export const data = [
     {
         'id': '227',
         'institucion':'Integral Tu Banca Mype, Santa Rosa de Lima', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.629519701753448,  
         'longitud':-87.88973844542065,  
         'direccion':'2a. Av. Sur No 540, Bo. El Convento, Santa Rosa de Lima, La Unión.',
@@ -3172,7 +3172,7 @@ export const data = [
     {
         'id': '228',
         'institucion':'Integral Tu Banca Mype, San Francisco Gotera', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.700336497374511,   
         'longitud':-88.10123904404352,  
         'direccion':'2a Calle Oriente y Av. Thompson, Plaza Sayonara, Local #1, San Francisco Gotera.',
@@ -3186,7 +3186,7 @@ export const data = [
      {
         'id': '229',
         'institucion':'Integral Tu Banca Mype, San Miguel', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.700336497374511,   
         'longitud':-88.10123904404352,  
         'direccion':'Av. Monseñor Romero y 6a.Calle Pte. No 412, San Miguel.',
@@ -3200,7 +3200,7 @@ export const data = [
      {
         'id': '230',
         'institucion':'Integral Tu Banca Mype, Usulután', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.3536920177297,   
         'longitud':-88.43628198725106,  
         'direccion':'8a. Av. Norte, #11, Usulután',
@@ -3214,7 +3214,7 @@ export const data = [
          {
         'id': '231',
         'institucion':'Integral Tu Banca Mype, Usulután', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.33307146104517,     
         'longitud':-88.56900301035928,
         'direccion':'2a. Av. Norte, No 4, Barrio Las Flores, Jiquilisco, Usulután.',
@@ -3228,7 +3228,7 @@ export const data = [
     {
         'id': '232',
         'institucion':'Integral Tu Banca Mype, Santiago de María', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.33307146104517,     
         'longitud':-88.56900301035928,
         'direccion':'Avenida Mariscal González #3, Barrio El Centro, Santiago de María, Usulután.',
@@ -3242,7 +3242,7 @@ export const data = [
     {
         'id': '233',
         'institucion':'Integral Tu Banca Mype, Zacatecoluca', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.33307146104517,     
         'longitud':-88.56900301035928,
         'direccion':'Ave. José Simeón Cañas y 4 calle Pte. Edificio 12,local # 1 Zacatecoluca La Paz.',
@@ -3256,7 +3256,7 @@ export const data = [
     {
         'id': '234',
         'institucion':'Integral Tu Banca Mype, San Vicente', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.33307146104517,     
         'longitud':-88.56900301035928,
         'direccion':'2a. Avenida Sur# 2, San Vicente.',
@@ -3270,7 +3270,7 @@ export const data = [
     {
         'id': '235',
         'institucion':'Integral Tu Banca Mype, Cojutepeque', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.726247552670491,      
         'longitud':-88.93684138009586,
         'direccion':'2a Calle Poniente #16 Cojutepeque, Cuscatlán.',
@@ -3284,7 +3284,7 @@ export const data = [
     {
         'id': '236',
         'institucion':'Integral Tu Banca Mype, Cojutepeque', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.728248649905133,      
         'longitud':-88.93752802561498,
         'direccion':'2a Calle Poniente #16 Cojutepeque, Cuscatlán.',
@@ -3298,7 +3298,7 @@ export const data = [
     {
         'id': '237',
         'institucion':'Integral Tu Banca Mype, San Martín ', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.744791600966211,      
         'longitud':-89.05605304806859,
         'direccion':'2 Calle Oriente y 2 Av. Sur, locales 6 a, b, c, f, g, h, San Martín, San Salvador.',
@@ -3312,7 +3312,7 @@ export const data = [
     {
         'id': '238',
         'institucion':'Integral Tu Banca Mype, Apopa', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.808654964706816,      
         'longitud':-89.1781626468279, 
         'direccion':'4ta Calle Oriente #11 bis, contiguo a Colegio Carlos Pellicer, Apopa, San Salvador.',
@@ -3326,7 +3326,7 @@ export const data = [
     {
         'id': '239',
         'institucion':'Integral Tu Banca Mype, Soyapango', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.707013211893166,      
         'longitud':-89.14814104874473, 
         'direccion':'Calle Roosevelt Ote. Urbanización San Pablo No. 42, 1/2 cuadra arriba del Cementerio general de Soyapango.',
@@ -3340,7 +3340,7 @@ export const data = [
     {
         'id': '240',
         'institucion':'Integral Tu Banca Mype, Puerto de La Libertad', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.494824413703236,       
         'longitud':-89.31556786664964, 
         'direccion':'Centro Comercial Biggest, loca 1 y 2, Puerto de la Libertad.',
@@ -3354,7 +3354,7 @@ export const data = [
     {
         'id': '241',
         'institucion':'Integral Tu Banca Mype, Centro', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.494824413703236,       
         'longitud':-89.31556786664964, 
         'direccion':'Planta Baja del Centro Comercial Plaza Centro, Calle Rubén Darío, Local PB-1, S.S.',
@@ -3368,7 +3368,7 @@ export const data = [
     {
         'id': '242',
         'institucion':'Integral Tu Banca Mype, Aguilares', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.9627001935488,         
         'longitud':-89.18609949831512, 
         'direccion':'2da Avenida Norte y 2da. Calle Oriente #11, Aguilares.',
@@ -3382,7 +3382,7 @@ export const data = [
     {
         'id': '243',
         'institucion':'Integral Tu Banca Mype, San Juan Opico', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.9627001935488,         
         'longitud':-89.18609949831512, 
         'direccion':'Av. Dueñas y 4ta Calle Oriente #5, San Juan Opico, La Libertad.',
@@ -3396,7 +3396,7 @@ export const data = [
     {
         'id': '244',
         'institucion':'Integral Tu Banca Mype, Metapán', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.336966575879817,         
         'longitud': -89.4431317908838,
         'direccion':'2a. Calle Oriente, pasaje Los Lavaderos, casa #39, Metapán, Santa Ana.',
@@ -3410,7 +3410,7 @@ export const data = [
     {
         'id': '245',
         'institucion':'Integral Tu Banca Mype, Ahuchapan', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.93065400667409,         
         'longitud':-89.84448519894845, 
         'direccion':'Final 8a. Calle Oriente y 3ra. Av. Norte, Centro Comercial Stanley, frente a Súper Selectos, Ahuachapán.',
@@ -3424,7 +3424,7 @@ export const data = [
     {
         'id': '246',
         'institucion':'Ministerio de Agricultura y Ganaderia, Santa Cruz Porrillo', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.490964313991734, 
         'longitud':-88.80637958127288,
         'direccion':'C5RW+JG9, CA-2, Santa Cruz Porrillo, El Salvador',
@@ -3438,7 +3438,7 @@ export const data = [
     {
         'id': '247',
         'institucion':'Ministerio de Agricultura y Ganaderia,  San Vicente', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.705532499899629,  
         'longitud':-88.78704068568705,
         'direccion':'J6W8+J8M, Avenida Jose Maria Cornejo y, 5A Calle Poniente, San Vicente, El Salvador',
@@ -3452,7 +3452,7 @@ export const data = [
     {
         'id': '248',
         'institucion':'MAG Ministerio de Agricultura y Ganadería', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.753558361525426,   
         'longitud':-89.13311002731804,
         'direccion':'MVQ6+8H3, Calle Al Matazano, San Salvador, El Salvador',
@@ -3466,7 +3466,7 @@ export const data = [
     {
         'id': '249',
         'institucion':'Ministerio de Agricultura y Ganadería Regional Santa Ana', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':14.046834516634243,  
         'longitud':-89.61101530861798, 
         'direccion':'XCM6+MGH, Antigua Carretera Panamericana, Santa Ana, El Salvador',
@@ -3480,7 +3480,7 @@ export const data = [
     {
         'id': '250',
         'institucion':'Dirección Departamental de Educación de San Salvador', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.724785489158194,   
         'longitud':-89.20138066197343,
         'direccion':'PQ8W+993, Calle, San Salvador, El Salvador',
@@ -3494,7 +3494,7 @@ export const data = [
     {
         'id': '251',
         'institucion':'Dirección Departamental de Educación de Morazán', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.794700554469104,  
         'longitud':-88.06482514685605,
         'direccion':'MVWV+9JG, San Francisco Gotera, El Salvador',
@@ -3508,7 +3508,7 @@ export const data = [
     {
         'id': '252',
         'institucion':'Dirección Departamental de Educación de Cabañas', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.962055959905722,   
         'longitud':-88.67768696073934,
         'direccion':'V9F9+MM5, Sensuntepeque, El Salvador',
@@ -3522,7 +3522,7 @@ export const data = [
     {
         'id': '253',
         'institucion':'Dirección Departamental de Educación de San Vicente', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.748722873192937,   
         'longitud':-88.7655775871853,
         'direccion':'Departamental de San Vicente, San Vicente, El Salvador',
@@ -3536,7 +3536,7 @@ export const data = [
     {
         'id': '254',
         'institucion':'Dirección Departamental de Educación de La Paz', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.609951877755272,  
         'longitud':-88.89741352685425, 
         'direccion':'G44F+4M6, Zacatecoluca, El Salvador',
@@ -3550,7 +3550,7 @@ export const data = [
     {
         'id': '255',
         'institucion':'Ministerio de Educación, Ciencia y Tecnología', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.824745232256305, 
         'longitud':-89.21173091925536,  
         'direccion':'PQ3X+WM2, San Salvador, El Salvador',
@@ -3564,7 +3564,7 @@ export const data = [
     {
         'id': '256',
         'institucion':'Dirección Departamental de Educación de La Libertad', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.819411137740351, 
         'longitud':-89.27215572493698,   
         'direccion':'MPF9+PQ4, Ave Balden Powell, Santa Tecla, El Salvador',
@@ -3577,8 +3577,8 @@ export const data = [
     },
     {
         'id': '257',
-        'institucion':'Ministerio De Educacion Departamental Sonsonate', 
-        'categoria':'Entrenamiento Tecnico (Habilidades Laborales)', 
+        'institucion':'Ministerio De Educación Departamental Sonsonate', 
+        'categoria':'Entrenamiento Técnico (Habilidades Laborales)', 
         'latitud':13.830007679322518, 
         'longitud':-89.70933840959141,    
         'direccion':'P7JP+WRW, Sonzacate, El Salvador',

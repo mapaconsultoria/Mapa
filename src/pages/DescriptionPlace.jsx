@@ -61,7 +61,7 @@ export const DescriptionPlace = () => {
             </a>
           </li>
           <li className="list-group-item">
-            <b>contacto: </b>
+            <b>Contacto: </b>
             {item.contacto}
           </li>
         </ul>

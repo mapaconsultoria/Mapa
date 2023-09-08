@@ -259,11 +259,11 @@ export const GoogleMapsLocations = ({ locations }) => {
 
 
       const categoryColors = {
-        "Entrenamiento Tecnico (Habilidades Laborales)": "green",
-        "Orientacion y Servicios Legales": "yellow",
+        "Entrenamiento Técnico (Habilidades Laborales)": "green",
+        "Orientación y Servicios Legales": "yellow",
         "Asistencia Psico-social": "blue",
-        "Emprendimiento Empresarial (Formalizacion legal y marketing)": "pink",
-        "Financiamiento (Creditos)": "purple",
+        "Emprendimiento Empresarial (Formalización legal y marketing)": "pink",
+        "Financiamiento (Créditos)": "purple",
       };
 
       // Crea íconos personalizados para cada categoría
