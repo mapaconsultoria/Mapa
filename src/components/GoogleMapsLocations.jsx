@@ -11,14 +11,14 @@ export const GoogleMapsLocations = ({ locations }) => {
   const { isGoogleMapsLoaded } = useContext(GoogleMapsContext);
   const { markers, setMarkers, setMapPosition } = useContext(GoogleMapsContext);
   
-
+      // AIzaSyD54E-tfB3c5lqTwaS8siAi7i1-_qZ2qx0
   useEffect(() => {
     // Cargar la API de Google Maps
     const loadGoogleMapsAPI = async () => {
       try {
         await new Promise((resolve, reject) => {
           const script = document.createElement("script");
-          script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyD54E-tfB3c5lqTwaS8siAi7i1-_qZ2qx0&callback=initMap`;
+          script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyC8Gf4nEHAuwlzhyfFSVDXkYAaSyR4Kqns&callback=initMap`;
           script.defer = true;
           script.async = true;
           script.onload = resolve;
