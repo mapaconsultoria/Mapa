@@ -18,7 +18,7 @@ export const GoogleMapsLocations = ({ locations }) => {
       try {
         await new Promise((resolve, reject) => {
           const script = document.createElement("script");
-          script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyC8Gf4nEHAuwlzhyfFSVDXkYAaSyR4Kqns&callback=initMap`;
+          script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyAhSbL5GpEIwojwabnp-lIG7mk_lZT2nsg&callback=initMap`;
           script.defer = true;
           script.async = true;
           script.onload = resolve;
